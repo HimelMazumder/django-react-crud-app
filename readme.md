@@ -15,6 +15,18 @@ A full-stack web application built with React.js and Django, featuring a modern 
 - **Django** - A high-level Python web framework for building robust applications.
 - **SQLite** - A lightweight, file-based database for local storage.
 
+### Frontend: Installation Guide
+- execute: npm i
+- execute: npm run dev
+
+### Backend: Installation Guide
+- In "backend-django" folder 
+- execute: python -m venv .venv (to create virtual environment)
+- execute: .venv/Scripts/activate (to activate virtual environment)
+- execute: cd backend (change current directory to backend)
+- execute: pip install -r requirements.txt
+- execute: py manage.py runserver (to start the server)
+
 ## What I've Learned
 
 ### React:
